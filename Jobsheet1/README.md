@@ -3,7 +3,7 @@
 | NIM | 244107020035 |
 | Name |  Brian Serafino Donovan |
 | Class | TI - 1I |
-| Repository | [link] (https://github.com/BrianLearning-source/Jobsheet1_ALSD.git) |
+| Repository | https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java |
 
 # Labs #1 Programming Fundamentals Review
 
