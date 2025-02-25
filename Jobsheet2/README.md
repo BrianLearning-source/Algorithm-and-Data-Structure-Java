@@ -13,8 +13,7 @@
 
 # 2.1.2 Verification Experiment Result
 
-
-[foto result 2.1]
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/43b465b7ee03feba0735e107243b7da1e4dc914c/Jobsheet2/images/result%202.1.png)
 
 # 2.1.3 Questions
 
@@ -41,8 +40,7 @@
 
 4. Modify the **updateGPA()** method to validate that the input IPK is within the range of 0.0 to 4.0. If it is out of range, display a message: "Invalid IPK. Must be between 0.0 and 4.0."
 
-// foto 
-[modify 2.1]
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/43b465b7ee03feba0735e107243b7da1e4dc914c/Jobsheet2/images/modify%202.1.png)
 
 5. Explain how the **evaluate()** method evaluates student performance. What criteria does it use, and what does it return?
 
@@ -52,19 +50,18 @@
 
 # 2.2.1 Source Code
 
-
-[foto 2.2]
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/43b465b7ee03feba0735e107243b7da1e4dc914c/Jobsheet2/images/2.2.png)
 
 # 2.2.2 Verification of Experiment Result
 
-
-[foto result 2.2]
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/43b465b7ee03feba0735e107243b7da1e4dc914c/Jobsheet2/images/result%202.2.png)
 
 # 2.2.3 Questions
 
 1. Show the line of code in StudentMain used for instantiation. What is the name of the created object?
 
-[foto 2.2.3]
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/43b465b7ee03feba0735e107243b7da1e4dc914c/Jobsheet2/images/2.2.3.png)
+
 - The name of the created object is **student1**.
 
 2. How do you access attributes and methods of an object?
