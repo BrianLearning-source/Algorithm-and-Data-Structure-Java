@@ -9,8 +9,7 @@
 
 # 2.1.1 Source code
 
-
-[foto 2.1] 
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/ea14f1cc527fece8dd2942f087a61f6c0ae78e7b/Jobsheet2/images/2.1%20Raw%20code.png)
 
 # 2.1.2 Verification Experiment Result
 
