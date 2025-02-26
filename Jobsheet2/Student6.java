@@ -5,10 +5,6 @@ public class Student6 {
     String className;
     double gpa;
 
-    public Student6() {
-        
-    }
-
     public Student6(String id, String name, String cls, double gpa) {
         studentID = id;
         this.name = name;
