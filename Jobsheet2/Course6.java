@@ -19,10 +19,10 @@ public class Course6 {
     // class method 
 
     void print() { //display all course details
-        System.out.println("Code of course : " + courseID);
-        System.out.println("Full name of course : " + name);
-        System.out.println("Semester Credit System : " + credit);
-        System.out.println("Total weekly meeting hours : " + hour);
+        System.out.printf("Code of course \t\t\t: %5s \n", courseID);
+        System.out.printf("Full name of course \t\t: %s \n" + name);
+        System.out.printf("Semester Credit System \t\t: %d \n" + credit);
+        System.out.printf("Total weekly meeting hours \t: %d \n" + hour);
     }
 
     void changeCredit(int newCredit) { //Changes the SKS and informs the user
