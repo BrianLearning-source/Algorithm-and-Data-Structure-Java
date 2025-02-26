@@ -12,5 +12,7 @@ public class StudentMain {
         Student6 student2 = new Student6("244107020040", "Rizky", "Ti-1I", 3.5);
         student2.updateGPA(3.3);
         student2.print();
+
+        Student6 studentBrian = new Student6("244107020035", "Brian Serafino Donovan", "Ti-1I", 3.6);
     }
 }
