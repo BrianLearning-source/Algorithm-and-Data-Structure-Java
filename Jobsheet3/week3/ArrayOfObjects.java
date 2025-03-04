@@ -1,25 +1,33 @@
 
 import week3.Rectangle;
-
+import java.util.Scanner;
 public class ArrayOfObjects {
         public static void main(String[] args) {
                Rectangle[] rectangleArray = new Rectangle[3];
 
-               rectangleArray[0] = new Rectangle();
-            rectangleArray[0].length = 110;
-            rectangleArray[0].width = 30;
+               Scanner sc = new Scanner(System.in);
+            System.out.print("Input the length of array of object : " );
+            int i = sc.nextInt();
+            Rectangle[] rectangleArray = new Rectangle[i];
+            // Assign the values for each attributes in objects
 
-               rectangleArray[1] = new Rectangle();
-            rectangleArray[1].length = 80;
-            rectangleArray[1].width = 40;
+            for (int j = 0; j < rectangleArray.length; j++) {
+               rectangleArray[j] = new Rectangle();
+                System.out.println("Rectangle " + j);
 
-               rectangleArray[2] = new Rectangle();
-            rectangleArray[2].length = 100;
-            rectangleArray[2].width = 20;
+                System.out.print("Input length : ");
+                rectangleArray[j].length = sc.nextInt();
 
-            System.out.println("First rectangle, width: " + rectangleArray[0].width + ", length: " + rectangleArray[0].length);
-            System.out.println("Second rectnagle, width: " + rectangleArray[1].width + ", length: " + rectangleArray[1].length);
-            System.out.println("Third rectangle, width: " + rectangleArray[2].width + ", length: " + rectangleArray[2].length);
+                System.out.print("Input width : ");
+                rectangleArray[j].width = sc.nextInt();
+            }
+
+            // Display the result in console
+            for (int k = 0; k < 10; k++) {
+                System.out.println("Rectangle " + k);
+                System.out.println("Width : " + rectangleArray[0].width + ", length : " + rectangleArray[0].length);
+            }
+
             }
     }
             
