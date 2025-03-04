@@ -8,8 +8,7 @@
 ## 1.2 Create, insert, and display Array of Object
 
 # 1.2.2 Result
-
-![alt text]([arrayO1](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/1c61ac28b7a354b3311f97db89a9caa230cd2fa5/Jobsheet3/images/arrayO1.png))
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/abdf63634e6812dbfb6cb0321f366dba4e158ad8/Jobsheet3/images/arrayO1.png)
 
 # 1.2.3 Questions
 
@@ -43,7 +42,7 @@
 
 # 1.3.2 Result 
 
-![alt texy]([arrayO4](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/1c61ac28b7a354b3311f97db89a9caa230cd2fa5/Jobsheet3/images/arrayO4.png))
+![alt texy](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/abdf63634e6812dbfb6cb0321f366dba4e158ad8/Jobsheet3/images/arrayO4.png)
 
 # 1.3.3 Questions
 
@@ -53,7 +52,7 @@
 
 2. If yes, then please give an example. Otherwise, please explain.
 
-![alt text]([2D array of object](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/1c61ac28b7a354b3311f97db89a9caa230cd2fa5/Jobsheet3/images/2D%20Array%20of%20object.png))
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/1c61ac28b7a354b3311f97db89a9caa230cd2fa5/Jobsheet3/images/2D%20Array%20of%20object.png)
 
 3. There is a Square class that has an attribute side with integer as its data type. There will be an error when we run this code, why?
 
