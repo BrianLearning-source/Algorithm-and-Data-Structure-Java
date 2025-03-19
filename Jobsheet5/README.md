@@ -24,7 +24,8 @@ Base Case "else"
 
 2. Is it possible to modify the loop in the factorialBF() method to use an alternative to the for loop? Please explain and give example if needed!
 
-- Yes, it is possible to modify the loop in the factorialBF() method. 
+- Yes, it is possible to modify the loop in the factorialBF() method.
+  
 ![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/d80c1bfc655d5a9050a66c02ffa7271f06322901/Jobsheet5/images/modifyFactorialBF().png)
 
 In the loop process, consists of 3 main part include : initial, condition, update. From top image, we can modify the initialization part with variable n (input a number from user), codition part from i <= n become i > 0, and update part from i++ (increment) become i-- (decrement). With same value for facto variable = 1, next to for loop process. Begin with initialization i = 5 and then check the condition part. Because i = 5 and contion i > 0, it's true and execute the statement. First statement is : facto (the value is 1) = facto (value is 1) * i (value is 5) and the result of facto is 5. After that, next to decreement update (i value is 5 minus 1 => i = 4). Go back to initialization, i = 4 and the condition is still true, so the program will execute the statement with the same method like before which iteration and multiple until the value of i = 0, the program will stop. 
