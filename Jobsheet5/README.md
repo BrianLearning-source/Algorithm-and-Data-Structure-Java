@@ -118,4 +118,4 @@ From this concept, 5 * 5 * 5 * 1 was the result of facto.
 
 5. Draw a conclusion about how totalDC() works!
 
-- 
+- If we look in how totalDC() method, execute from IF statement (when IF condition is correct will run that base case but IF condition is incorrect, will skip). Statement, after brackets is mid (l+r)/2 have main role to split the array into 2 part. Next to lsum = totalDC(arr, l, mid), arr indicate amount of element contain in array. lsum have function to handle the left part of array and rsum handle the right part of array. So the concept will involve mid = (l+r)/2 as the divide to separate / dividing the original problem into sub-problems, lsum and rsum as the conquer to solving each problems with recursive, if (r == l) as the answer or we call base case as solution each sub-problem, and return  lsum + rsum as combine to combining the solutions of each sub-problem to original problem solution. 
