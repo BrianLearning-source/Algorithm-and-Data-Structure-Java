@@ -15,12 +15,13 @@
 
 1. In the base case of the Divide and Conquer algorithm for calculating factorial, explain the differences in the code structure between the if and else conditions!
 
-- The differences between  if  and  else  in Devide and Conguer algorithm is "if " was base case code condition and "else" was recursion to call the recursion function again until reach the base case condition. 
-![alt text](baseCaseFaktorial)
-Base Case "if"
+- The differences between  if  and  else  in Devide and Conguer algorithm is "if " was base case code condition and "else" was recursion to call the recursion function again until reach the base case condition.
+Base Case "IF"
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/d0030d05d6376bcb1217363880be33e5c6eb2671/Jobsheet5/images/basecasefactorial.png)
 
-![alt text](recursioncall)
-Base Case "else"
+"ELSE" as recursion call
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/d0030d05d6376bcb1217363880be33e5c6eb2671/Jobsheet5/images/RecursionFactorial.png)
+
 
 2. Is it possible to modify the loop in the factorialBF() method to use an alternative to the for loop? Please explain and give example if needed!
 
