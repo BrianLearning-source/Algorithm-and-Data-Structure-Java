@@ -3,7 +3,7 @@
 | NIM | 244107020035 |
 | Name |  Brian Serafino Donovan |
 | Class | TI - 1I |
-| Repository | https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java |
+| Repository | https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/tree/main/Jobsheet5 |
 
 ## 5.2 Calculating Factorial Using Brute Force and Divide and Conquer Algorithms
 
@@ -17,9 +17,11 @@
 
 - The differences between  if  and  else  in Devide and Conguer algorithm is "if " was base case code condition and "else" was recursion to call the recursion function again until reach the base case condition.
 Base Case "IF"
+
 ![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/d0030d05d6376bcb1217363880be33e5c6eb2671/Jobsheet5/images/basecasefactorial.png)
 
 "ELSE" as recursion call
+
 ![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/d0030d05d6376bcb1217363880be33e5c6eb2671/Jobsheet5/images/RecursionFactorial.png)
 
 
