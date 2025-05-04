@@ -49,13 +49,27 @@ public class TopStudent {
         }
     }
 
+    // public void insertionSort() {
+    //     for (int i = 1; i < idx; i++) {
+    //         Student temp = listStudents[i];
+    //         int j = i;
+
+    //         // Move elements that have bigger GPA to the right
+    //         while (j > 0 && listStudents[j - 1].gpa > temp.gpa) {  
+    //             listStudents[j] = listStudents[j - 1];
+    //             j--;
+    //         }
+    //         listStudents[j] = temp;
+    //     }
+    // }
+
     public void insertionSort() {
         for (int i = 1; i < idx; i++) {
             Student temp = listStudents[i];
             int j = i;
 
-            // Move elements that have bigger GPA to the right
-            while (j > 0 && listStudents[j - 1].gpa > temp.gpa) {  
+            // Move elements that have bigger GPA to the left
+            while (j > 0 && listStudents[j - 1].gpa < temp.gpa) {  
                 listStudents[j] = listStudents[j - 1];
                 j--;
             }
