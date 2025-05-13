@@ -9,7 +9,7 @@
 
 # 6.2.2 Verification of Experiment Results
 
-![alt text](Answer6.2.2)
+![alt text](Jobsheet6/images/Answer6.2.2.png)
 
 # 6.2.3 Verification of Experiment Results
 
