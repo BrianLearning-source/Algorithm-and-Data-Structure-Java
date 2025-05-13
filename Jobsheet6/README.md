@@ -13,45 +13,45 @@
 
 # 6.2.3 Verification of Experiment Results
 
-![alt text](Answer6.2.3)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/eb1e2fc4fc1fc648fba2583fb4c87d876793513c/Jobsheet6/images/Answer6.2.3.png)
 
 # 6.2.4 Verification of Experiment Results
 
-![alt text](Answer6.2.4)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/eb1e2fc4fc1fc648fba2583fb4c87d876793513c/Jobsheet6/images/Answer6.2.4.png)
 
 # 6.2.5 Questions
 
 1. Explain the function of the following program code:
 
-![alt text](Questions6.2.5.1)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/eb1e2fc4fc1fc648fba2583fb4c87d876793513c/Jobsheet6/images/Question6.2.5.1.png)
 
 - The following program code have function to swap the bigest value from left to right position.
 
 2. Show the program code that implements the minimum value search algorithm in selection sort!
 
-- ![alt text](Answer6.2.5.2)
+- ![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/eb1e2fc4fc1fc648fba2583fb4c87d876793513c/Jobsheet6/images/Answer6.2.5.2.png)
 
 3. In insertion sort, explain the purpose of the condition in the loop.
 
-![alt text](Questions6.2.5.3)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/eb1e2fc4fc1fc648fba2583fb4c87d876793513c/Jobsheet6/images/Question6.2.5.3%20(2).png)
 
 - This looping code provide main role as checking condition while the value of array want to check with next element and if the while Loop condition is correct then the code will run to next statement but if not correct, the code will be skip. 
 
 4. In insertion sort, what is the purpose of the given command?
 
-![alt text](Question6.2.5.4)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/eb1e2fc4fc1fc648fba2583fb4c87d876793513c/Jobsheet6/images/Question6.2.5.4.png)
 
 - The purpose is swap that element array with next element array.
 
 # 6.3.3 Verification of Experiment Results
 
-![alt_text](Answer6.3.3)
+![alt_text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/eb1e2fc4fc1fc648fba2583fb4c87d876793513c/Jobsheet6/images/Answer6.3.3.png)
 
 # 6.3.4 Questions!
 
 1. From the following code snippet, answer question a-c:
 
-![alt_text](Questions6.3.4.1)
+![alt_text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/eb1e2fc4fc1fc648fba2583fb4c87d876793513c/Jobsheet6/images/Questions6.3.4.1.png)
 
 a. Why is the condition in the bubbleSort() loop i < idx - 1?
 
@@ -67,17 +67,17 @@ c. If the number of data in listStudents is 50, how many times will the i loop e
 
 2. Modify the above program to allow dynamic student data input (from the keyboard) consisting of nim, name, studentClass, and gpa.
 
-![alt_text](Answer6.3.4.2)
+![alt_text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/eb1e2fc4fc1fc648fba2583fb4c87d876793513c/Jobsheet6/images/Answer6.3.4.2.png)
 
 # 6.3.8 Verification of Experiment Results
 
-![alt_text](Answer6.3.8)
+![alt_text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/eb1e2fc4fc1fc648fba2583fb4c87d876793513c/Jobsheet6/images/Answer6.3.8%20(2).png)
 
 # 6.3.9 Questions!
 
 Explain the following code snippet in the correlation with the selection sort!
 
-![alt_text](Questions6.3.9)
+![alt_text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/eb1e2fc4fc1fc648fba2583fb4c87d876793513c/Jobsheet6/images/Questions6.3.9.png)
 
 - At the beginning, the minIndex variable serves to store the 0th index of an array. 
 FOR Loop j serves to loop to compare one by one the values in the array to get the smallest index value.
@@ -88,10 +88,10 @@ The sequence is like this, when the minIndex variable is 0 (index 0), enter the 
 
 # 6.3.12 Verification of Experiment Results
 
-![alt_text](Answer6.3.12)
+![alt_text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/eb1e2fc4fc1fc648fba2583fb4c87d876793513c/Jobsheet6/images/Answer6.3.12.png)
 
 # 6.3.13 Questions 
 
 Modify the insertionSort() method so that it can perform a descending sorting!
 
-![alt_text](Answer6.3.13)
+![alt_text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/eb1e2fc4fc1fc648fba2583fb4c87d876793513c/Jobsheet6/images/Answer6.3.13%20(2).png)
