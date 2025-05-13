@@ -9,7 +9,7 @@
 
 # 6.2.2 Verification of Experiment Results
 
-![alt text](Jobsheet6/images/Answer6.2.2.png)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/be3d53b6c2dc3c42cf6ebca8031377635d6887d5/Jobsheet6/images/Answer6.2.2.png)
 
 # 6.2.3 Verification of Experiment Results
 
