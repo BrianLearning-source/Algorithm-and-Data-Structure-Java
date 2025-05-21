@@ -39,6 +39,6 @@
 
 2. Explain the purpose of the code below in the remove method.
 
-![alt text](Question2.2.3.2)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/a62ef31d7dbf1486ed628716d72988a925c80067/Jobsheet12/images/Question2.2.3.2.png)
 
 - temp.next = temp.next.next is code to skip one node (node that will be remove base on the keyword) also to connect node tmp with the next node temp after the deleted node.
