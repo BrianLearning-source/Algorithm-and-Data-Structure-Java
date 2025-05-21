@@ -7,7 +7,7 @@
 
 # 2.1.1 Output Verification
 
-![alt text](Output2.1.1)
+![alt text](Jobsheet12/images/Output2.1.1.png)
 
 # 2.1.2 Questions!
 
@@ -21,7 +21,7 @@
 
 3. Modify the code so that data can be added via keyboard input!
 
-![alt text](Answer2.1.2.2)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/5ac784c0592d7023925b99411d4972e02e570bd4/Jobsheet12/images/Answer2.1.2.2.png)
 
 4. What would happen if we did not use the tail attribute? Would it affect the code implementation? Please explain.
 
@@ -29,7 +29,7 @@
 
 # 2.2.2 Output verification
 
-![alt text](Verification2.2.2)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/5ac784c0592d7023925b99411d4972e02e570bd4/Jobsheet12/images/Verification2.2.2.png)
 
 # 2.2.3 Questions
 
