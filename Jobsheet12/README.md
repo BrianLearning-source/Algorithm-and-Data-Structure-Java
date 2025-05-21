@@ -7,7 +7,7 @@
 
 # 2.1.1 Output Verification
 
-![alt text](Jobsheet12/images/Output2.1.1.png)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/0e2c1db838b32be1e8c1e3dd1a307f4a78aa9415/Jobsheet12/images/Output2.1.1.png)
 
 # 2.1.2 Questions!
 
