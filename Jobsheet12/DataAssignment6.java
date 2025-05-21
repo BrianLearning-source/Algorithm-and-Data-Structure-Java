@@ -14,6 +14,6 @@ public class DataAssignment6 {
     }
 
     public void print() {
-        System.out.printf("%-10s %s-20s %-10s %.2f\n", nim, name, className, grade);
+        System.out.printf("%-10s %-20s %-10s %.2f\n", nim, name, className, grade);
     }
 }
