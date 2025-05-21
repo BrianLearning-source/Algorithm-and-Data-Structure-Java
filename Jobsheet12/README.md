@@ -3,7 +3,7 @@
 | NIM | 244107020035 |
 | Name |  Brian Serafino Donovan |
 | Class | TI - 1I |
-| Repository |  |
+| Repository | https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/tree/main/Jobsheet12 |
 
 # 2.1.1 Output Verification
 
