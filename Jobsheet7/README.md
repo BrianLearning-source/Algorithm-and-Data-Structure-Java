@@ -7,7 +7,7 @@
 
 # 7.2 Result
 
-![alt_text](Result7.2.1)
+![alt_text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/f21195f8d31d7f87748c838d7a084fd022640a49/Jobsheet7/images/Result7.2.1.png)
 
 # 7.3 Question
 
