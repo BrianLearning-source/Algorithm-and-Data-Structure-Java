@@ -17,7 +17,7 @@
 
 2. What is the function of break in this following program code?
 
-![alt_text](Question7.3.2)
+![alt_text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/5333441602f49110a3772fb1f6ff5c0e6539259c/Jobsheet7/images/Question7.3.2.png)
 
 - break; code have function to stop (once) the searching after found the data that user want in array.
 
@@ -31,28 +31,28 @@
 
 # 7.2 Result
 
-![alt text](Result7.2.2)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/5333441602f49110a3772fb1f6ff5c0e6539259c/Jobsheet7/images/Result7.2.2.png)
 
 # 7.3 Question
 
 1. Show the program code in which runs the divide process!
 
-![alt text](Answer7.3.1)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/5333441602f49110a3772fb1f6ff5c0e6539259c/Jobsheet7/images/Answer7.3.1.png)
 
 2. Show the program code in which runs the conquer process!
 
-![alt_text](Answer7.3.2)
+![alt_text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/5333441602f49110a3772fb1f6ff5c0e6539259c/Jobsheet7/images/Answer7.3.2.png)
 
 3. If inserted NIM data is not sorted, will the program give the correct result? Why?
     If inserted NIM data is sorted from largest to smallest value (e.g 20215, 20214 20212, 20211,20210) and element being searched is 20210. How is the result of binary search? does it return the correct one? if not, then change the code so that the binary search executed properly
 
 - No, the program will give uncorrect result because Binary Searching designed to searching after the data already sorted. Based on the SearchStudent class on findBinarySearch() method, after divide the array of object into 2 part with first conditional statement, the next Conditional statement will return the mid data first. If not correct, go to the Else If 1 with condition (listStd[mid].nim > search) which are continue to searching in the left side that indicate that left side have more less value than middle to right side. If from here there's some mistake because unsorted data / array, than the output will appear uncorrect answer or not found because get skip when recursive call.
 
-![alt text](Answer7.3.3)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/5333441602f49110a3772fb1f6ff5c0e6539259c/Jobsheet7/images/Answer7.3.3.png)
 
 - The result of binary search is not found. The result give uncorrect one.
 
-![alt text](Answer7.3.3.1)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/5333441602f49110a3772fb1f6ff5c0e6539259c/Jobsheet7/images/Answer7.3.3.1.png)
 
 4. Modify program above so that the students amount inserted is matched with user input
 
@@ -60,21 +60,21 @@
 
 Before :
 
-![alt image](Answer7.3.4.1)
+![alt image](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/5333441602f49110a3772fb1f6ff5c0e6539259c/Jobsheet7/images/Answer7.3.4.1.png)
 
 After : 
 
-![alt image](Answer7.3.4.2)
+![alt image](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/5333441602f49110a3772fb1f6ff5c0e6539259c/Jobsheet7/images/Answer7.3.4.2.png)
 
 - After that go to the MainStudent class. Modify the code before into this and add user input so that the student amount inserted is matched with user want.
 
 Before : 
 
-![alt image](Answer7.3.4.3)
+![alt image](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/5333441602f49110a3772fb1f6ff5c0e6539259c/Jobsheet7/images/Answer7.3.4.3.png)
 
 After : 
 
-![alt iamge](Answer7.3.4.4)
+![alt iamge](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/5333441602f49110a3772fb1f6ff5c0e6539259c/Jobsheet7/images/Answer7.3.4.4.png)
 
 # 7.2 Result
 
