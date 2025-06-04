@@ -78,5 +78,5 @@ After :
 
 # 7.2 Result
 
-![alt text](7.2 Aswer)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/94517ee1ad80c2e80b5fe7f9bbad2ff8ff2fb4aa/Jobsheet7/images/7.2%20Aswer.png)
 
