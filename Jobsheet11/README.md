@@ -80,6 +80,6 @@
 
 4. Modify the program by adding a new method called viewRear() in the StudentQueue class to check the queue element at the rear position. Also, update the menu in the StudentQueueMain class by adding option 6: “Check rear of the queue,” so that the viewRear() method can be invoked.
 
-![alt text](A 2.2.3.4.1 JS11)
-![alt text](A 2.2.3.4.2 JS11)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/589229dcdf10907a14ad39d393639690dae394e7/Jobsheet11/images/A%202.2.3.4.1%20JS11.png)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/589229dcdf10907a14ad39d393639690dae394e7/Jobsheet11/images/A%202.2.3.4.2%20JS11.png)
 
