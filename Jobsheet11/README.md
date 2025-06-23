@@ -83,3 +83,7 @@
 ![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/589229dcdf10907a14ad39d393639690dae394e7/Jobsheet11/images/A%202.2.3.4.1%20JS11.png)
 ![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/589229dcdf10907a14ad39d393639690dae394e7/Jobsheet11/images/A%202.2.3.4.2%20JS11.png)
 
+Diagram Class : 
+
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/1f5b925755782541462dcca84c82f3f63babfa53/Jobsheet11/images/Screenshot%202025-06-23%20171932.png)
+
