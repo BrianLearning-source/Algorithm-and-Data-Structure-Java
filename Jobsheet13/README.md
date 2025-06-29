@@ -7,7 +7,7 @@
 
 # 12.2.2 Output Verification
 
-![alt text](Verification12.2.2)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/28a6c42465f84223b650aade62eec3adaddb9936/Jobsheet13/Images/Verification12.2.2.png)
 
 # 12.2.3 Questions
 
@@ -21,13 +21,13 @@
 
 3. Examine the constructor in the DoubleLinkedLists class. What is the purpose of this constructor?
 
-![alt text](Question12.2.3.3)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/28a6c42465f84223b650aade62eec3adaddb9936/Jobsheet13/Images/Question12.2.3.3.png)
 
 - To initialize double linked list attribute pointer (next and previous poointer ) as null.
 
 4. In the addFirst() method, what is the meaning of the following code?
 
-![alt text](Question12.2.3.4)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/28a6c42465f84223b650aade62eec3adaddb9936/Jobsheet13/Images/Question12.2.3.4.png)
 
 - The code refers to addFirst() method in CONDITIONAL STATEMENT IF when there is no node / empty node in double linked list. If the condition is true, the following statement execute to give the newNode have 2 pointer, are head at once become tail too.  
 
@@ -44,23 +44,23 @@
 - method the traversal process implemented is insertAfter() method and print() method.
 
 InsertAfter(String key, Student data)
-![alt text](A 12.2.3.7.1)
-![alt text](A 12.2.3.7.2)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/28a6c42465f84223b650aade62eec3adaddb9936/Jobsheet13/Images/A%2012.2.3.7.1.png)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/28a6c42465f84223b650aade62eec3adaddb9936/Jobsheet13/Images/A%2012.2.3.7.2.png)
 
 print()
-![alt text](A 12.2.3.7.3)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/28a6c42465f84223b650aade62eec3adaddb9936/Jobsheet13/Images/A%2012.2.3.7.3.png)
 
 - The meaning of temp = temp.next is updates the temp variable to no longer point to the current node, but instead points to the next node in the double linked list.
 
 8. In the insertAfter() method, what is the following code for?
 
-![alt text](Question12.2.3.8)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/28a6c42465f84223b650aade62eec3adaddb9936/Jobsheet13/Images/Question12.2.3.8.png)
 
 - That following code used when node position that will adding in the fact get in the last position (tail) on the double linked list. If pass from CONDITIONAL STATEMENTA condition, continue to run addLast(data) method.
 - It depents by users but for efficient and effective way, recommended to implement it.
 - If we remove this code method, it will appear several problem such as if the double linked list is empty node, it will appear error because there is none node can be pointer to the next or previous node also if some case, the node that will adding is in the last node, appear null pointer like the following image.
 
-![alt text](A. 12.2.3.8)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/28a6c42465f84223b650aade62eec3adaddb9936/Jobsheet13/Images/A.%2012.2.3.8.png)
 
 9. In the insertAfter() what is this statement if(temp.data.nim.equalsIgnoreCase(key)) for?
 
@@ -68,20 +68,20 @@ print()
 
 # 12.3.2 Output Verification
 
-![alt text](12.3.2 Output Verification)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/28a6c42465f84223b650aade62eec3adaddb9936/Jobsheet13/Images/12.3.2%20Output%20Verification.png)
 
 # 12.3.3 Questions
 
 1. What is the use of the following statement in the removeFirst() method?
 
-![alt text](Q 12.3.3.1)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/28a6c42465f84223b650aade62eec3adaddb9936/Jobsheet13/Images/Q%2012.3.3.1.png)
 
 - That following statement in the removeFirst() have function to :
 head = head.next; reposition the head of the current node to the next node. Then head.prev = null; nullify the node that was previously be the head / cut off the link from pointer prev head to the first node.
 
 2. Why is it important to include conditions and processes like the ones below in both removeFirst() and removeLast() methods? Explain!
 
-![alt text](Q 12.3.3.2)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/28a6c42465f84223b650aade62eec3adaddb9936/Jobsheet13/Images/Q%2012.3.3.2.png)
 
 - The condition else if (head == tail) is crucial for edge-case handling when the list has only one node remaining. Because head and tail point to the same node so after deleting this node, the double linked list become empty afterward. Without this code might incorrectly assume there are multiple nodes (e.g., accessing head.next or tail.prev), leading to NullPointerException
 
@@ -89,7 +89,7 @@ head = head.next; reposition the head of the current node to the next node. Then
 
 - One approach that can use if there is no tail attribute is using traversal, adding new variable with Node datatype to help us as a object pointer on the Node class. Using while with condition (temp.next != null) with statement on the while is temp.next = temp as a traversal method to go until found the last node. And then using code temp.prev.next = null, indicate that temp in the last node will go back to previous node with prev as a pointer and then nullify (cut off) the last node with next.
 
-![alt text](12.3.3.3 JS 13)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/28a6c42465f84223b650aade62eec3adaddb9936/Jobsheet13/Images/12.3.3.3%20JS13.png)
 
 4. What is the purpose of the initial if(isEmpty()) check in the remove(int index) method?
 
@@ -105,4 +105,4 @@ head = head.next; reposition the head of the current node to the next node. Then
 
 7. The remove(int index) method currently does not check for negative index or index that exceed the size of the DoubleLinkedLists. Please add statements to handle these cases.
 
-![alt text](A 12.3.3.7 JS13)
+![alt text](https://github.com/BrianLearning-source/Algorithm-and-Data-Structure-Java/blob/28a6c42465f84223b650aade62eec3adaddb9936/Jobsheet13/Images/A%2012.3.3.7%20JS13.png)
